@@ -8,7 +8,7 @@ I would try to share my achievements and findings with you.
 [AR4UK69]
 
    <p align="left">
-        <a><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ar4uk69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <a> <input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow ar4uk69" aria-label="Follow ar4uk69" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:126593592,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:165842506,&quot;originating_url&quot;:&quot;https://github.com/ar4uk69&quot;}}" data-hydro-click-hmac="b92b311f276e84a7311322af2e232304a4a60752f21d15847adbc4c903ea8e3f" data-disable-with="Follow"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ar4uk69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ar4uk69?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ar4uk69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
