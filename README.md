@@ -8,11 +8,11 @@ I would try to share my achievements and findings with you.
 [AR4UK69]
 
    <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ar4uk69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <a><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ar4uk69?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ar4uk69?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ar4uk69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+  
 ---
 
 ### 🧰 Languages and Tools
