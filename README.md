@@ -6,12 +6,12 @@ I'm interested in the web, and I study how to create web sites and how they work
 I hope that I will show my road from the beginning and continue it when I get my first job.
 I would try to share my achievements and findings with you.
 [AR4UK69]
-<header>
+<head>
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/ar4uk69" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @ar4uk69 on GitHub">Follow @ar4uk69</a>
       <a href="https://github.com/ar4uk69?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ar4uk69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</header>
+</head>
   
 ---
 
