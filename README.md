@@ -7,7 +7,7 @@ I hope that I will show my road from the beginning and continue it when I get my
 I would try to share my achievements and findings with you.
 [AR4UK69]
 <header>
-      <a class="github-button" href="https://github.com/ar4uk69" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @ar4uk69 on GitHub">Follow me</a>
+<a class="github-button" href="https://github.com/ar4uk69" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @ar4uk69 on GitHub">Follow @ar4uk69</a>
       <a href="https://github.com/ar4uk69?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ar4uk69?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </header>
