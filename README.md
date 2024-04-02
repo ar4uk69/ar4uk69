@@ -34,3 +34,5 @@ I would try to share my achievements and findings with you.
 <details>
  <summary><h3>👨‍💻 Ar4uk69's Coding Journey</h3></summary>
   I started coding as a computer science student. A wish that will get me a job as a front-end developer after graduation. I was forced to leave my country and am now trying to regain my work pace with a new github profile. I hope that this profile will become my portfolio, which will contain all my projects from the beginning of my journey in IT
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
