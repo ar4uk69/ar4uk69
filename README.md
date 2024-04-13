@@ -2,16 +2,14 @@
 **`Web development (Future Web developer)`**
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprZWV2MHo3bzl1ZmttNmUzczQwbWp2MHFsbDJpMXA1ZHY3YjJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif"/>
-<a href="https://www.linkedin.com/in/ar4uk69"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+hi+hi+hello;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<!-- <p align="center"> -->
 <!-- <a href="https://www.buymeacoffee.com/ar4uk69" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ar4uk69&style=flat-square&color=red" alt=""></p>
-
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/media/e93c404a9544c94b99bbc8574f7b8626.gif" height="450px"/></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -22,7 +20,6 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 - ⚡ In my free time I solve problems on Code wars.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ar4uk69-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ar4uk69)
 
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
