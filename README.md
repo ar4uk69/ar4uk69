@@ -6,7 +6,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+hi+hi+hello;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
-<!-- <p align="center"> -->
 <!-- <a href="https://www.buymeacoffee.com/ar4uk69" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ar4uk69&style=flat-square&color=red" alt=""></p>
