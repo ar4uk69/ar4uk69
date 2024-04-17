@@ -17,7 +17,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - 🔭 I’m studying as a Computer Siense student.
 - 🌱 Learning the development interface.
-- ⚡ In my free time I solve problems on Code wars.
+- ⚡ In my free time I solve problems on LeetCode.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ar4uk69-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ar4uk69)
 
 
