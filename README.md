@@ -38,9 +38,11 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemnchuk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=artemnchuk&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=300&card_height=165&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemnchuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artemnchuk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemnchuk&show_icons=true&theme=dark)
 
 ---
 
